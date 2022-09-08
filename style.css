@@ -1,0 +1,23 @@
+body{margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 1.5%;    
+    }
+
+#link_a{float: right;
+    margin-top: 3%;
+    }
+#link_b{float: right;
+        margin-top: 3%;
+        margin-right: 7%;
+        }
+div.a{margin-top: 1.5%;
+    }
+
+div.b{text-align: justify;
+    margin-left: 0.5%;
+    margin-right: 7%;
+    }
+
+.texto{font-weight: bold;
+    text-align: center;
+    }
